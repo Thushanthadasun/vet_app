@@ -1,0 +1,6 @@
+{
+  "name": "Pastel Paws",
+  "description": "An offline-first friendship gift app for a veterinary science student featuring Sinhala memes, 4 brain/vet mini-games, goal reminders, Mystery Gift Boxes, and a March 6 birthday surprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

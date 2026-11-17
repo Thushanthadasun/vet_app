@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pastel Paws</string>
+
+    <!-- Bottom navigation tabs -->
+    <string name="nav_home">Home</string>
+    <string name="nav_memes">Memes</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_gifts">Gifts</string>
+
+    <!-- Home screen -->
+    <string name="home_subtitle">Veterinary Science Corner</string>
+    <string name="home_stars_label">Your Stars</string>
+    <string name="home_next_box_label">Next Mystery Box</string>
+    <string name="home_note_title">A Note for Today</string>
+
+    <!-- Memes screen -->
+    <string name="memes_title">Sinhala Memes</string>
+    <string name="memes_filter_all">All</string>
+    <string name="memes_filter_favorites">Favourites</string>
+    <string name="memes_add_from_gallery">Add Photo</string>
+    <string name="memes_refresh">Refresh</string>
+
+    <!-- Games screen -->
+    <string name="games_title">Quick Games</string>
+    <string name="games_subtitle">Earn stars and beat your best score</string>
+
+    <!-- Goals screen -->
+    <string name="goals_title">Study &amp; Life Goals</string>
+    <string name="goals_add">New Goal</string>
+
+    <!-- Gift Boxes screen -->
+    <string name="gifts_title">Mystery Gift Boxes</string>
+    <string name="gifts_open_box">Tap to Open</string>
+    <string name="gifts_send_message">Send Message</string>
+    <string name="gifts_mark_delivered">Mark Delivered</string>
+
+    <!-- Notifications -->
+    <string name="channel_reminders_name">Goal Reminders</string>
+    <string name="channel_reminders_desc">Local reminders for your study and life goals</string>
+    <string name="channel_birthday_name">Birthday Surprise</string>
+    <string name="channel_birthday_desc">Annual March 6 birthday celebration alert</string>
+</resources>
